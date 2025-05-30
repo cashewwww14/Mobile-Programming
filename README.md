@@ -12,7 +12,7 @@ This project was developed as part of the Mobile Programming course at **Institu
 * RecyclerView usage
 * Local data handling (e.g., SharedPreferences or Room)
 
-## \Course Information
+## Course Information
 
 * **Course:** Mobile Programming
 * **Department:** Informatics Engineering
@@ -20,7 +20,7 @@ This project was developed as part of the Mobile Programming course at **Institu
 * **Language:** Kotlin
 * **Tools:** Android Studio
 
-## 👤 Author
+## Author
 
 Ahmad Zaky Ash Shidqi
 Undergraduate in Informatics Engineering — ITS
