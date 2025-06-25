@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dessert Clicker</string>
+    <string name="desserts_sold">Desserts Sold</string>
+    <string name="revenue">Revenue</string>
+    <string name="click_to_sell">Click to sell for $%1$d!</string>
+    <string name="next_dessert">Next: %1$s (%2$d sold)</string>
+    <string name="all_unlocked">You\'ve unlocked all desserts! 🎉</string>
+
+    <!-- Dessert names -->
+    <string name="cupcake">Cupcake</string>
+    <string name="donut">Donut</string>
+    <string name="eclair">Eclair</string>
+    <string name="froyo">Froyo</string>
+    <string name="gingerbread">Gingerbread</string>
+    <string name="honeycomb">Honeycomb</string>
+    <string name="ice_cream">Ice Cream Sandwich</string>
+    <string name="jelly_bean">Jelly Bean</string>
+</resources>
